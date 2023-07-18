@@ -1,2 +1,2 @@
 Heloka
-Viszontlátás
+Viszonthallás
